@@ -5,7 +5,7 @@ I'm Allaiza, a Computer Science student specializing in Digital Forensics.
 Cybersecurity, data analytics, and frontend development are my three main areas of interest. I try to develop projects that encapsulates their respective concepts. 
 
 
-<<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allianzzes/allianzzes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allianzzes/allianzzes/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/allianzzes/allianzzes/output/pacman-contribution-graph.svg">
