@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Allaiza, a Computer Science student specializing in Digital Forensics. 
+
+Cybersecurity, data analytics, and frontend development are my three main areas of interest. I try to develop projects that encapsulates their respective concepts. 
+
+
+
+
 <!--
 **allianzzes/allianzzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
